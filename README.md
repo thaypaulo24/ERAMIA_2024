@@ -3,7 +3,7 @@
 ECL course material for community workshops. The training cluster utilized during the workshop is: *TrainingCluster*. After completing this course, you should use: *localhost*.
 
 # During the workshop GitPod will be used as main environment:
-1. By using your GitHub credentials, just click on the following link for instantiate a environment via GitPod(gitpod.io/#):
+1. By using your GitHub credentials, just click on the following link for instantiate a environment via GitPod(https://gitpod.io/#):
 https://gitpod.io/#https://github.com/mauromarx/ERAMIA_2024
 
 **Note I**: Alternatively, you can use the ECL IDE:
